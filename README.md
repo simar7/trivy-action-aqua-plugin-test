@@ -1,0 +1,1 @@
+# trivy-action-aqua-plugin-test
